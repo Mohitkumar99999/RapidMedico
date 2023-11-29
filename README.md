@@ -13,9 +13,8 @@ The users will get a mail to their registered mail Id during:-
 .New User Registration
 .Order Successfully Placed
 .The Item was out of stock while exploring but now it got available in the store
-.Successful shipment and delivery of the Item
+.Successful shipment and delivery of the Item Technologies used:-
 
-Technologies used:-
 1 Front-End Development:
 .HTML
 .CSS
@@ -27,10 +26,22 @@ Technologies used:-
 .JDBC
 .Servlet
 .JSP
+
 3 Database:
 .MySql
 
+======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
+Step 1: Create a gmail account or login to existing account in any browser
 
+Step 2 : Go to https://myaccount.google.com/security and check if 2 step verifications is enabled or not, enable it if not enabled
+
+Step 3: Go to https://myaccount.google.com/apppasswords and enter password if asked
+
+Step 4: In Select an App Section: select Other (custom name) => enter "Ellison Electronics" => Generate
+
+Step 5: After that it will generate 16 digits app password which you need to copy and save for future configurations.
+
+Step 6: Done : Now continue to importing the project. [Don't share the above password generated to anyone]
 
 
 
