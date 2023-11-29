@@ -27,3 +27,12 @@ Technologies used:-
 .JSP
 3 Database:
 .MySql
+
+
+
+
+
+
+
+![image](https://github.com/Mohitkumarthakur/RapidMedico/assets/138698896/9039ee1f-d4d5-495e-97ca-7434ca6c7d81)
+
