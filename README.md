@@ -14,12 +14,14 @@ The users will get a mail to their registered mail Id during:-
 .Order Successfully Placed
 .The Item was out of stock while exploring but now it got available in the store
 .Successful shipment and delivery of the Item
+
 Technologies used:-
 1 Front-End Development:
 .HTML
 .CSS
 .Javascript
 .BootStrap
+
 2 Back-End Development:
 .Java [JDK 8+]
 .JDBC
