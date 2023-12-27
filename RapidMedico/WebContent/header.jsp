@@ -59,6 +59,7 @@
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-right">
+                                        <li><a href="Uploadprescription.jsp">Uploadprescription  For Urgent Medicine</a></li>
 					<li><a href="login.jsp">Login</a></li>
 					<li><a href="register.jsp">Register</a></li>
 					<li><a href="index.jsp">Products</a></li>
