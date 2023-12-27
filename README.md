@@ -1,6 +1,6 @@
 This is an (Rapid Medico)E-Commerce Website build for selling of any Medicine products online.
 About
-In this projects a user can visit the websites, registers and login to the website. They can check all the products available for shopping, filter and search item based on different categories, and then add to cart. They can add multiple item to the cart and also plus or minus the quantity in the cart. Once the cart is updated, the user can proceed to checkout and click the credit card payment details to proceed. Once the payment is success the orders will be placed and users will be able to see the orders details in the orders section along with the shipping status of the product.
+In this projects a user can visit the websites, registers and login to the website. They can Upload any medicine prescription for  urgent need-within  60 minutes check all the products available for shopping, filter and search item based on different categories, and then add to cart. They can add multiple item to the cart and also plus or minus the quantity in the cart. Once the cart is updated, the user can proceed to checkout and click the credit card payment details to proceed. Once the payment is success the orders will be placed and users will be able to see the orders details in the orders section along with the shipping status of the product.
 
 The admin also plays an important role for this project as the admin is the one responsible for adding any product to the store, updating the items, removing the item from the store as well as managing the inventory. The admin can see all the product orders placed and also can mark them as shipped or delivered based on the conditions.
 
@@ -46,6 +46,29 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 
 ![image](https://github.com/Mohitkumar99999/RapidMedico/assets/138698896/1bc27726-ea1d-4f90-9239-7d33a3cbff6d)
+
+
+
+
+![image](https://github.com/Mohitkumar99999/RapidMedico/assets/138698896/67a92bd1-cb07-4346-9c27-86b73180c3e2)
+
+
+
+
+
+
+![image](https://github.com/Mohitkumar99999/RapidMedico/assets/138698896/fdc5cc60-c0ef-402f-8e3c-0838f06077d4)
+
+
+
+
+
+![image](https://github.com/Mohitkumar99999/RapidMedico/assets/138698896/28ea7968-cea6-480b-b355-a23abcc8cc11)
+
+
+
+
+
 
 
 ![image](https://github.com/Mohitkumar99999/RapidMedico/assets/138698896/b1280f44-f18a-497c-9d76-da47b2d831b7)
